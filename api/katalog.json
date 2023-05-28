@@ -1,0 +1,65 @@
+[
+   {
+      "title":"Minimal Aesthetic",
+      "thumb":"https://i.ibb.co/6Ns47Pg/k1.jpg",
+      "endpoint":"tema-minimalaesthetic",
+      "order":"",
+      "demo":"https://qobilto.my.id/demo/minimalaesthetic"
+   },
+   {
+   "title":"Brown Amour",
+   "thumb":"https://i.ibb.co/5hzHQM3/k2.jpg",
+   "endpoint":"tema-brownamour",
+   "order":"https",
+   "demo":"https://qobilto.my.id/demo/brownamour"
+   },
+   {
+   "title":"Green Love",
+   "thumb":"https://i.ibb.co/GWrjg3c/k3.jpg",
+   "endpoint":"tema-greenlove",
+   "order":"https",
+   "demo":"https://qobilto.my.id/demo/greenlove"
+   },
+   {
+   "title":"Modern Navi",
+   "thumb":"https://i.ibb.co/yXQS9JJ/k4.jpg",
+   "endpoint":"tema-modernnavi",
+   "order":"https",
+   "demo":"https://qobilto.my.id/demo/modernnavi"
+   },
+   {
+   "title":"Jingga",
+   "thumb":"https://i.ibb.co/CWxxrmk/k5.jpg",
+   "endpoint":"tema-jingga",
+   "order":"https",
+   "demo":"https://qobilto.my.id/demo/jingga"
+   },
+   {
+   "title":"Pink In Love",
+   "thumb":"https://i.ibb.co/p0qp9JD/k6.jpg",
+   "endpoint":"tema-pinkinlove",
+   "order":"https",
+   "demo":"https://qobilto.my.id/demo/pinkinlove"
+   },
+   {
+   "title":"Blue Romantic",
+   "thumb":"https://i.ibb.co/DRZyWYJ/k7.jpg",
+   "endpoint":"tema-blueromantic",
+   "order":"https",
+   "demo":"https://qobilto.my.id/demo/blueromantic"
+   },
+   {
+   "title":"Romansa",
+   "thumb":"https://i.ibb.co/wZnK3Fj/k8.jpg",
+   "endpoint":"tema-romansa",
+   "order":"https",
+   "demo":"https://qobilto.my.id/demo/romansa"
+   },
+   {
+   "title":"Serenity Flower",
+   "thumb":"https://i.ibb.co/QX6JWJm/k9.jpg",
+   "endpoint":"tema-serenityflower",
+   "order":"https",
+   "demo":"https://qobilto.my.id/demo/serenityflower"
+   }
+]
